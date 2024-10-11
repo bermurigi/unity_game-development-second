@@ -1,1 +1,2 @@
-# unity_game-development-second
+# 2023 게임프로그래밍 및 실습 2번째팀
+유니티 버전(2022.3.10f1)
